@@ -1,0 +1,11 @@
+
+configuration {
+	icon-theme: "yet-another-monochrome-icon-set";
+	display-drun: "Apps";
+	display-window: "Windows";
+	font: "D2CodingLigature Nerd Font Mono 12";
+	modi: "window,run,emoji,clipboard:~/.config/rofi/cliphist-rofi-img";
+	drun-display-format: "{icon} {name}";
+}
+
+@theme "~/.config/rofi/my_theme.rasi"
